@@ -20,9 +20,3 @@ Dự án này mô phỏng pipeline dữ liệu từ **Olist Kaggle dataset** đ�
 - scripts/ → Python ETL scripts
 
 ---
-
-## ✅ Hướng dẫn khởi tạo Git
-`ash
-git init
-git add .
-git commit -m "chore: init skeleton"
