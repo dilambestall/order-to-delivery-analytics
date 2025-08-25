@@ -1,0 +1,15 @@
+# -------------------------
+# Interactive Development
+# -------------------------
+jupyter
+ipython
+notebook
+
+# -------------------------
+# Testing & Quality
+# -------------------------
+pytest
+pytest-dbt-adapter
+flake8
+black
+pre-commit

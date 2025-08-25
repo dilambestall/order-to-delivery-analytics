@@ -1,0 +1,15 @@
+pandas
+numpy
+pyarrow
+sqlalchemy
+psycopg2-binary
+dbt-core
+dbt-postgres
+apache-airflow==2.10.2
+pyspark
+delta-spark
+hdfs
+s3fs
+deltalake
+python-dotenv
+requests
