@@ -57,6 +57,7 @@ pip install -r dev-requirements.txt
 
 # Tạo database trong Postgres
 createdb ecommerce_dw
+```
 
 
 
