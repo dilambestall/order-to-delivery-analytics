@@ -1,6 +1,35 @@
-.venv/
+# Ignore dữ liệu raw và output
+data/
+lake/
+*.csv
+*.parquet
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore cache & temp files
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+*.pyo
+*.pyd
+*.tmp
 *.log
+
+# Ignore environment & dependency folders
 .env
+.venv/
+env/
+venv/
+.venv/*
+.envrc
+*.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
