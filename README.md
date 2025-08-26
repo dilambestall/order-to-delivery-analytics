@@ -18,5 +18,8 @@ Dự án này mô phỏng pipeline dữ liệu từ **Olist Kaggle dataset** đ�
 - i/ → dashboard (Metabase, BI tools)
 - docs/ → tài liệu dự án
 - scripts/ → Python ETL scripts
+- ## Dataset
+Tải dataset Olist tại: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce  
+Sau đó giải nén vào thư mục: data/landing/
 
 ---
